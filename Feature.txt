@@ -1,0 +1,35 @@
+Drag-and-Drop PDF Upload
+
+Instant AI Summarization (Using Gemini 2.5 Flash)
+
+Interactive Document Chat (Q&A with full PDF context)
+
+Automated Video Script Generation
+
+Basic Text-to-Speech Audio (Using gTTS)
+
+Keyword-Based Image Retrieval (Using Unsplash API)
+
+Real-Time In-Browser Video Player (Using Remotion)
+
+Dual-Pane Dashboard (Chat and Video side-by-side)
+
+Local File Processing (No external database required)
+
+No-Login System (Direct access)
+________________________________________________________
+Recommended Features (Simple & High Impact)
+
+"AI Quiz Generator": Automatically generate 5 multiple-choice questions from the PDF to test the user after the video.
+
+"Auto-Glossary": Automatically extract and list definitions for difficult technical terms found in the document.
+
+"Explain Like I'm 5" Button: A dedicated button in the chat to simplify complex answers instantly.
+
+"Flashcard" Study Mode: A dedicated tab that generates flip-cards for key terms and definitions found in the document for quick revision.
+
+"Citation Scanner": A tool that extracts all references/citations from the academic paper and finds their real links (Google Scholar/Arxiv) so users can fact-check sources.
+
+"Key Formula Extractor": Specifically for math/physics papers, extract all equations into a separate "Cheat Sheet" sidebar with simple explanations for each variable.
+________________________________________________________
+
